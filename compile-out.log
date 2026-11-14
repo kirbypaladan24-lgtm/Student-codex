@@ -1,0 +1,45 @@
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>if "Windows_NT" == "Windows_NT" setlocal
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set DIRNAME=C:\Users\user\AndroidStudioProjects\Hackathonproj\ 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>if "C:\Users\user\AndroidStudioProjects\Hackathonproj\" == "" set DIRNAME=. 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set APP_BASE_NAME=gradlew 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set APP_HOME=C:\Users\user\AndroidStudioProjects\Hackathonproj\ 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>for %i in ("C:\Users\user\AndroidStudioProjects\Hackathonproj\") do set APP_HOME=%~fi 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set APP_HOME=C:\Users\user\AndroidStudioProjects\Hackathonproj\ 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m" 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>if defined JAVA_HOME goto findJavaFromJavaHome 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set JAVA_EXE=java.exe 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>java.exe -version  1>NUL 2>&1 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>if 0 EQU 0 goto execute 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>set CLASSPATH= 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>"java.exe" "-Xmx64m" "-Xms64m"   "-Dorg.gradle.appname=gradlew" -classpath "" -jar "C:\Users\user\AndroidStudioProjects\Hackathonproj\\gradle\wrapper\gradle-wrapper.jar" :app:compileDebugKotlin --console=plain 
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :app:compileDebugKotlin UP-TO-DATE
+
+BUILD SUCCESSFUL in 3s
+7 actionable tasks: 7 up-to-date
+Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.4.1/userguide/configuration_cache_enabling.html
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>if 0 EQU 0 goto mainEnd 
+
+C:\Users\user\AndroidStudioProjects\Hackathonproj>if "Windows_NT" == "Windows_NT" endlocal

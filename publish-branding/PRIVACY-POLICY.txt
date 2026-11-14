@@ -1,0 +1,96 @@
+STUDENT CODEX - PRIVACY POLICY
+Last updated: October 26, 2026
+
+This privacy policy explains how Student Codex ("the app") handles your
+information when you use it. Student Codex is a personal school companion
+app for university students: it shows your Google Classroom coursework,
+assignments, and deadlines in one clean view (the Beacon) together with
+the courses you are enrolled in.
+
+If you have any questions about this policy, contact us at
+kirbypaladan24@gmail.com.
+
+
+1. INFORMATION WE COLLECT
+
+A. Account information
+   - The email address and display name you provide when you create an
+     account (email and password sign-up, or Google Sign-In).
+
+B. Course and school details you enter
+   - The courses you enroll in manually and any school details you fill
+     in during sign-up or later in Settings.
+
+C. Google Classroom data (only after YOU connect your account)
+   - The names, sections, and teacher/roster information of the Google
+     Classroom courses you choose to import
+   - The coursework in those courses: titles, descriptions, due dates,
+     and completion status
+   - The Google account email you selected when importing, so that
+     future syncs keep using the exact account you chose
+
+   The app uses READ-ONLY Google Classroom permissions. It never posts,
+   edits, submits, or deletes anything in your Google Classroom.
+
+D. Authorization tokens
+   - Short-lived Google access tokens used to read the data above
+     while a sync is running.
+
+
+2. HOW WE USE THE INFORMATION
+
+- To display YOUR OWN coursework, deadlines, and classes inside the app
+- To re-sync your coursework in the background so deadlines stay current
+- To keep your account working across reinstalls and devices
+
+We do NOT use your information for advertising, profiling, analytics, or
+any purpose other than the features of the app itself.
+
+
+3. WHERE DATA IS STORED AND HOW IT IS PROTECTED
+
+- Your account, enrolled courses, and synced coursework are stored in
+  the app's backend database (Supabase).
+- Data is transmitted over HTTPS.
+- Google access tokens are used only to call Google's Classroom API
+  during a sync, and are never sold or shared with anyone.
+
+
+4. SHARING WITH THIRD PARTIES
+
+- We never sell, rent, or trade your personal information.
+- The app contains no third-party advertising or tracking SDKs.
+- Data is disclosed only when legally required.
+
+
+5. YOUR CONTROLS
+
+- Disconnect Google Classroom at any time from Settings. This stops all
+  syncing immediately.
+- Delete your account and all associated data by emailing
+  kirbypaladan24@gmail.com with the subject "Delete my account".
+  Deletion requests are processed within 30 days.
+
+
+6. DATA RETENTION
+
+Your account and coursework data are kept while your account exists, so
+the app can keep showing them. Everything is permanently deleted when
+you request account deletion, or when you delete courses from the app.
+
+
+7. CHILDREN
+
+Student Codex is intended for university students. It is not directed at
+children under 13, and we do not knowingly collect data from children.
+
+
+8. CHANGES TO THIS POLICY
+
+If this policy changes, the updated version will be posted on this page
+with a new "last updated" date.
+
+
+9. CONTACT
+
+Questions, concerns, or deletion requests: kirbypaladan24@gmail.com

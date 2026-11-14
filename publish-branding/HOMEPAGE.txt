@@ -1,0 +1,32 @@
+STUDENT CODEX
+Your school life, in one place.
+
+Student Codex is a personal companion app for university students.
+Connect your Google Classroom once and your courses, coursework, and
+deadlines flow straight into your Beacon - one clean view of what is
+due, what is coming, and what is past.
+
+
+WHAT IT DOES
+
+- Import courses straight from Google Classroom. You choose which
+  Google account and which courses - it is never a guessing game.
+- Automatic coursework sync. New assignments appear in the app without
+  you lifting a finger.
+- Deadlines that are actually upcoming. The Beacon counts what is due
+  in the next 7 days so nothing sneaks up on you.
+- Enroll in courses manually or pick them during sign-up.
+- Sign in with email and password, or with your Google account.
+
+
+PRIVACY FIRST
+
+- Read-only access. Student Codex never modifies your Google Classroom.
+- No ads, no trackers, no data selling.
+- Disconnect Google Classroom anytime from Settings.
+- See the Privacy Policy page for full details.
+
+
+QUESTIONS
+
+Email: kirbypaladan24@gmail.com
